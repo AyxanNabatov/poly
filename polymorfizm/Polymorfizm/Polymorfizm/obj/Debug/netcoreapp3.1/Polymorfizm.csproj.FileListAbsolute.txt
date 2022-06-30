@@ -1,0 +1,14 @@
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\bin\Debug\netcoreapp3.1\Polymorfizm.exe
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\bin\Debug\netcoreapp3.1\Polymorfizm.deps.json
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\bin\Debug\netcoreapp3.1\Polymorfizm.runtimeconfig.json
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\bin\Debug\netcoreapp3.1\Polymorfizm.runtimeconfig.dev.json
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\bin\Debug\netcoreapp3.1\Polymorfizm.dll
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\bin\Debug\netcoreapp3.1\Polymorfizm.pdb
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\obj\Debug\netcoreapp3.1\Polymorfizm.csproj.AssemblyReference.cache
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\obj\Debug\netcoreapp3.1\Polymorfizm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\obj\Debug\netcoreapp3.1\Polymorfizm.AssemblyInfoInputs.cache
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\obj\Debug\netcoreapp3.1\Polymorfizm.AssemblyInfo.cs
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\obj\Debug\netcoreapp3.1\Polymorfizm.csproj.CoreCompileInputs.cache
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\obj\Debug\netcoreapp3.1\Polymorfizm.dll
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\obj\Debug\netcoreapp3.1\Polymorfizm.pdb
+C:\Users\aykhanvn\Desktop\polymorfizm\Polymorfizm\Polymorfizm\obj\Debug\netcoreapp3.1\Polymorfizm.genruntimeconfig.cache
